@@ -17,4 +17,7 @@ public class SampleProject {
 
     }
     
+    public String funcio(){
+        return "hello";
+    }
 }
