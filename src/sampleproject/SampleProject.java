@@ -20,6 +20,11 @@ public class SampleProject {
 
     }
     
+
+    public String funcio(){
+        return "hello";
+    }
+    
     public void suma(int a) {
         
     }
