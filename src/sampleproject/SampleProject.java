@@ -6,6 +6,9 @@ package sampleproject;
  */
 public class SampleProject {
 
+    private int resta(){
+        return 0;
+    }
     /**
      * @param args the command line arguments
      */
